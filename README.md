@@ -1,6 +1,6 @@
 # Hola, soy Niber Matencio 👋
 
-💻 Estudiante de Ingeniería de Software con IA
+💻 Egresado de Ingeniería de Software con IA
 
 🚀 Construyendo soluciones digitales para empresas y emprendedores.
 
