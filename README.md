@@ -26,7 +26,7 @@
 * Construir productos digitales propios
 * Conseguir experiencia profesional en desarrollo de software
 
-📫 Contacto: tu correo profesional
+📫 Contacto: nibermatencio1@gmail.com
 
 
 <!--
